@@ -2,4 +2,8 @@ const addNumber = (a, b) => {
 	return a + b;
 };
 
-module.exports = { addNumber };
+const minusNumber = (a, b) => {
+	return a + b;
+};
+
+module.exports = { addNumber, minusNumber };
