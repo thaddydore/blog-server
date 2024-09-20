@@ -1,6 +1,9 @@
-# Install dependencies
-```yarn```
+# Blog Server
 
-# Run the code
+## Install dependencies
 
-``` yarn dev```
+`yarn`
+
+## Run the code
+
+` yarn dev`
