@@ -6,4 +6,8 @@ const minusNumber = (a, b) => {
 	return a + b;
 };
 
-module.exports = { addNumber, minusNumber };
+const multiNumber = (a, b) => {
+	return a * b;
+};
+
+module.exports = { addNumber, minusNumber, multiNumber };
